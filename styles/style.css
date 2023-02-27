@@ -1,0 +1,29 @@
+#banner{
+    background-image: url("../images/Gomory.jpg");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid navajowhite;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: navajowhite;
+}
+
+td {
+    height: 50px;
+}
+
+tr, td {
+    background-color: navajowhite;
+}
