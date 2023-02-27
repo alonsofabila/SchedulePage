@@ -23,17 +23,17 @@
     <!--Horarios-->
     <div class="container-fluid border border-primary" id="banner">
         <h2 class="text-center text-white">Horarios Salones</h2>
-        <table class="table table-warning table striped table-hover align-middle">
+        <table class="table table-warning table striped table-hover text-center">
             <thead>
                 <tr>
-                    <th scope="col">Time</th>
-                    <th scope="col">Monday</th>
-                    <th scope="col">Tuesday</th>
-                    <th scope="col">Wednesday</th>
-                    <th scope="col">Thursday</th>
-                    <th scope="col">Friday</th>
-                    <th scope="col">Saturday</th>
-                    <th scope="col">Sunday</th>
+                    <th scope="col">Hora</th>
+                    <th scope="col">Lunes</th>
+                    <th scope="col">Martes</th>
+                    <th scope="col">Miércoles</th>
+                    <th scope="col">Jueves</th>
+                    <th scope="col">Viernes</th>
+                    <th scope="col">Sábado</th>
+                    <th scope="col">Domingo</th>
                 </tr>
             </thead>
             <tbody>
