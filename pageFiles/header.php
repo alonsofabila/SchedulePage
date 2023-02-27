@@ -16,7 +16,7 @@
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Edidicio</a>
+                        <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Edificio</a>
                         <ul class="dropdown-menu">
                             <li><a href="#" class="dropdown-item">LIIET</a></li>
                         </ul>
