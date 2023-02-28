@@ -21,8 +21,10 @@
     ?>
 
     <!--Horarios-->
-    <div class="container-fluid border border-primary" id="banner">
+    <div class="container">
+        <br>
         <h2 class="text-center text-white">Horarios Salones</h2>
+        <br>
         <table class="table table-warning table striped table-hover text-center">
             <thead>
                 <tr>

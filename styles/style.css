@@ -1,6 +1,4 @@
-#banner{
+body{
     background-image: url("../images/Gomory.jpg");
     background-size: cover;
-    height: 100%;
-    width: 100%;
 }
