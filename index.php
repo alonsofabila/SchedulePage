@@ -25,7 +25,7 @@
         <br>
         <h2 class="text-center text-white">Horarios Salones</h2>
         <br>
-        <table class="table table-warning table striped table-hover text-center">
+        <table class="table table-warning table striped table-hover table-bordered text-center">
             <thead>
                 <tr>
                     <th scope="col">Hora</th>
