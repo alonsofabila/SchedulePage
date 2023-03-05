@@ -21,7 +21,7 @@
     ?>
 
     <!--Horarios-->
-    <div class="container">
+    <div class="container-fluid">
         <br>
         <h2 class="text-center text-white">Horarios Salones</h2>
         <br>

@@ -2,3 +2,8 @@ body{
     background-image: url("../images/Gomory.jpg");
     background-size: cover;
 }
+
+.container-fluid{
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
