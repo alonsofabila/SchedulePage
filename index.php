@@ -35,323 +35,191 @@
                     <th scope="col">Jueves</th>
                     <th scope="col">Viernes</th>
                     <th scope="col">Sábado</th>
-                    <th scope="col">Domingo</th>
                 </tr>
             </thead>
-            <tbody>
-                <tr>
-                    <th scope="row">7:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">7:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">8:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">8:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">9:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">9:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">10:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">10:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">11:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">11:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>   
-                </tr>
-                <tr>
-                    <th scope="row">12:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">12:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">13:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">13:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">14:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">14:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">15:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">15:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">16:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">16:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">17:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">17:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">18:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">18:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">19:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">19:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">20:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">20:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">21:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">21:30 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th scope="row">22:00 </th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
+            <tbody id="schedule-data">
             </tbody>
         </table>
     </div>
+
+    <script>
+        const scheduleData = {
+            "times": [
+                "7:00",
+                "7:30",
+                "8:00",
+                "8:30",
+                "9:00",
+                "9:30",
+                "10:00",
+                "10:30",
+                "11:00",
+                "11:30",
+                "12:00",
+                "12:30",
+                "13:00",
+                "13:30",
+                "14:00",
+                "14:30",
+                "15:00",
+                "15:30",
+                "16:00",
+                "16:30",
+                "17:00",
+                "17:30",
+                "18:00",
+                "18:30",
+                "19:00",
+                "19:30",
+                "20:00",
+                "20:30",
+                "21:00",
+                "21:30",
+                "22:00"
+            ],
+            "days": [
+                {
+                    "day": "Lunes",
+                    "schedule": [
+                        {
+                            "time": "16:00",
+                            "class": "Calculo Multimalvado",
+                            "nrc":  "50760"
+                        },
+                        {
+                            "time": "17:30",
+                            "class": "Redes Avanzadas",
+                            "nrc":  "50304"
+                        },
+                        {
+                            "time": "16:00",
+                            "class": "programacion para internet",
+                            "nrc":  "50310"
+                        }
+                    ]
+                },
+                {
+                    "day": "Martes",
+                    "schedule": [
+                        {
+                            "time": "11:30",
+                            "class": "Dinamica",
+                            "nrc":  "50576"
+                        },
+                        {
+                            "time": "13:00",
+                            "class": "Dinamica",
+                            "nrc":  "50576"
+                        },
+                        {
+                            "time": "17:30",
+                            "class": "Ingenieria en software II",
+                            "nrc":  "50294"
+                        },
+                        {
+                            "time": "19:00",
+                            "class": "Ingenieria en software II",
+                            "nrc":  "50294"
+                        }
+                    ]
+                },
+                {
+                    "day": "Miercoles",
+                    "schedule": [
+                        {
+                            "time": "16:00",
+                            "class": "Calculo Multimalvado",
+                            "nrc":  "50760"
+                        },
+                        {
+                            "time": "17:30",
+                            "class": "Redes Avanzadas",
+                            "nrc":  "50304"
+                        },
+                        {
+                            "time": "16:00",
+                            "class": "programacion para internet",
+                            "nrc":  "50310"
+                        }
+                    ]
+                },
+                {
+                    "day": "Jueves",
+                    "schedule": [
+                        {
+                            "time": "11:30",
+                            "class": "Practica de dinamica",
+                            "nrc":  "50578"
+                        },
+                        {
+                            "time": "13:00",
+                            "class": "Dinamica",
+                            "nrc":  "50576"
+                        },
+                        {
+                            "time": "17:30",
+                            "class": "Redes Avanzadas",
+                            "nrc":  "50304"
+                        },
+                        {
+                            "time": "19:00",
+                            "class": "Ingenieria en software II",
+                            "nrc":  "50294"
+                        }
+                    ]
+                },
+                {
+                    "day": "Viernes",
+                    "schedule": [
+                        {
+                            "time": "13:00",
+                            "class": "Color",
+                            "nrc":  "51498"
+                        },
+                        {
+                            "time": "14:30",
+                            "class": "Color",
+                            "nrc":  "51498"
+                        },
+                        {
+                            "time": "16:00",
+                            "class": "Calculo Multimalvado",
+                            "nrc":  "50760"
+                        },
+                        {
+                            "time": "19:00",
+                            "class": "programacion para internet",
+                            "nrc":  "50310"
+                        }
+                    ]
+                },
+                {
+                    "day": "Sabado",
+                    "schedule": []
+                },
+            ]
+        };
+
+
+        const scheduleTableBody = document.getElementById("schedule-data");
+
+        scheduleData.times.forEach(time => {
+            const row = document.createElement("tr");
+            const timeCell = document.createElement("td");
+            timeCell.textContent = time;
+            row.appendChild(timeCell);
+
+            scheduleData.days.forEach(day => {
+                const daySchedule = day.schedule.find(item => item.time === time);
+
+                const classCell = document.createElement("td");
+                classCell.textContent = daySchedule ? daySchedule.class : "";
+                row.appendChild(classCell);
+            });
+
+            scheduleTableBody.appendChild(row);
+        });
+    </script>
 
     <!--Bootstrap script-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
