@@ -2,7 +2,28 @@ body{
     background-image: url("../images/Gomory.jpg");
     background-size: cover;
 }
+
 .container-fluid{
     overflow-y: hidden;
     overflow-x: scroll;
+
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #fff3cd;
+}
+
+th, td {
+    border: 1px solid #eadfbc;
+    padding: 8px;
+    text-align: center;
+
+}
+th {
+    background-color: #fff3cd;
+
+}
+td:hover {
+    background-color: bisque;
 }

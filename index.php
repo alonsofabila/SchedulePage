@@ -9,7 +9,7 @@
     <!--Bootstrap link-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <!--css link-->
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="./styles/style.css">
 
     <title>Horarios Aulas</title>
 </head>
@@ -25,7 +25,7 @@
         <br>
         <h2 class="text-center text-white">Horarios Salones</h2>
         <br>
-        <table class="table table-warning table striped table-hover table-bordered text-center">
+        <table class="table text-center">
             <thead>
                 <tr>
                     <th scope="col">Hora</th>
@@ -84,17 +84,20 @@
                         {
                             "time": "16:00",
                             "class": "Calculo Multimalvado",
-                            "nrc":  "50760"
+                            "nrc":  "50760",
+                            "duration": 90
                         },
                         {
                             "time": "17:30",
                             "class": "Redes Avanzadas",
-                            "nrc":  "50304"
+                            "nrc":  "50304",
+                            "duration": 90
                         },
                         {
-                            "time": "16:00",
+                            "time": "19:00",
                             "class": "programacion para internet",
-                            "nrc":  "50310"
+                            "nrc":  "50310",
+                            "duration": 90
                         }
                     ]
                 },
@@ -104,22 +107,26 @@
                         {
                             "time": "11:30",
                             "class": "Dinamica",
-                            "nrc":  "50576"
+                            "nrc":  "50576",
+                            "duration": 90
                         },
                         {
                             "time": "13:00",
                             "class": "Dinamica",
-                            "nrc":  "50576"
+                            "nrc":  "50576",
+                            "duration": 90
                         },
                         {
                             "time": "17:30",
                             "class": "Ingenieria en software II",
-                            "nrc":  "50294"
+                            "nrc":  "50294",
+                            "duration": 90
                         },
                         {
                             "time": "19:00",
                             "class": "Ingenieria en software II",
-                            "nrc":  "50294"
+                            "nrc":  "50294",
+                            "duration": 90
                         }
                     ]
                 },
@@ -129,17 +136,20 @@
                         {
                             "time": "16:00",
                             "class": "Calculo Multimalvado",
-                            "nrc":  "50760"
+                            "nrc":  "50760",
+                            "duration": 90
                         },
                         {
                             "time": "17:30",
                             "class": "Redes Avanzadas",
-                            "nrc":  "50304"
+                            "nrc":  "50304",
+                            "duration": 90
                         },
                         {
-                            "time": "16:00",
+                            "time": "19:00",
                             "class": "programacion para internet",
-                            "nrc":  "50310"
+                            "nrc":  "50310",
+                            "duration": 90
                         }
                     ]
                 },
@@ -149,22 +159,26 @@
                         {
                             "time": "11:30",
                             "class": "Practica de dinamica",
-                            "nrc":  "50578"
+                            "nrc":  "50578",
+                            "duration": 90
                         },
                         {
                             "time": "13:00",
                             "class": "Dinamica",
-                            "nrc":  "50576"
+                            "nrc":  "50576",
+                            "duration": 90
                         },
                         {
                             "time": "17:30",
                             "class": "Redes Avanzadas",
-                            "nrc":  "50304"
+                            "nrc":  "50304",
+                            "duration": 90
                         },
                         {
                             "time": "19:00",
                             "class": "Ingenieria en software II",
-                            "nrc":  "50294"
+                            "nrc":  "50294",
+                            "duration": 90
                         }
                     ]
                 },
@@ -174,22 +188,26 @@
                         {
                             "time": "13:00",
                             "class": "Color",
-                            "nrc":  "51498"
+                            "nrc":  "51498",
+                            "duration": 90
                         },
                         {
                             "time": "14:30",
                             "class": "Color",
-                            "nrc":  "51498"
+                            "nrc":  "51498",
+                            "duration": 90
                         },
                         {
                             "time": "16:00",
                             "class": "Calculo Multimalvado",
-                            "nrc":  "50760"
+                            "nrc":  "50760",
+                            "duration": 90
                         },
                         {
                             "time": "19:00",
                             "class": "programacion para internet",
-                            "nrc":  "50310"
+                            "nrc":  "50310",
+                            "duration": 90
                         }
                     ]
                 },
