@@ -1,0 +1,166 @@
+{
+  "events": [
+    {
+      "id": "50760 ",
+      "start": "2023-04-17T16:00:00",
+      "text": "Calculo Multimalvado",
+      "duration": 90,
+      "dayOfWeek": 7,
+      "weeks": 4
+    },
+    {
+      "id": "50760 ",
+      "start": "2023-04-19T16:00:00",
+      "text": "Calculo Multimalvado",
+      "duration": 90,
+      "dayOfWeek": 5,
+      "weeks": 4
+    },
+    {
+      "id": "50760 ",
+      "start": "2023-04-21T16:00:00",
+      "text": "Calculo Multimalvado",
+      "duration": 90,
+      "dayOfWeek": 3,
+      "weeks": 4
+    },
+
+    {
+      "id": "50304",
+      "start": "2023-04-17T17:30:00",
+      "text": "Redes avanzadas",
+      "duration": 90,
+      "dayOfWeek": 3,
+      "weeks": 4
+    },
+    {
+      "id": "50304",
+      "start": "2023-04-19T17:30:00",
+      "text": "Redes avanzadas",
+      "duration": 90,
+      "dayOfWeek": 5,
+      "weeks": 4
+    },
+    {
+      "id": "50304",
+      "start": "2023-04-20T17:30:00",
+      "end": "2023-04-20T19:00:00",
+      "text": "Redes avanzadas",
+      "duration": 90,
+      "dayOfWeek": 6,
+      "weeks": 4
+    },
+
+    {
+      "id": "50310",
+      "start": "2023-04-17T19:00:00",
+      "end": "2023-04-17T20:30:00",
+      "text": "programacion para internet",
+      "duration": 90,
+      "dayOfWeek": 3,
+      "weeks": 4
+    },
+    {
+      "id": "50310",
+      "start": "2023-04-19T19:00:00",
+      "end": "2023-04-19T20:30:00",
+      "text": "programacion para internet",
+      "duration": 90,
+      "dayOfWeek": 5,
+      "weeks": 4
+    },
+    {
+      "id": "50310",
+      "start": "2023-04-21T19:00:00",
+      "end": "2023-04-21T20:30:00",
+      "text": "programacion para internet",
+      "duration": 90,
+      "dayOfWeek": 7,
+      "weeks": 4
+    },
+
+    {
+      "id": "50576",
+      "start": "2023-04-18T11:30:00",
+      "end": "2023-04-18T13:00:00",
+      "text": "Dinamica",
+      "duration": 90,
+      "dayOfWeek": 4,
+      "weeks": 4
+    },
+    {
+      "id": "50576",
+      "start": "2023-04-18T13:00:00",
+      "end": "2023-04-18T14:30:00",
+      "text": "Dinamica",
+      "duration": 90,
+      "dayOfWeek": 4,
+      "weeks": 4
+    },
+    {
+      "id": "50576",
+      "start": "2023-04-20T13:00:00",
+      "end": "2023-04-20T14:30:00",
+      "text": "Dinamica",
+      "duration": 90,
+      "dayOfWeek": 6,
+      "weeks": 4
+    },
+    {
+      "id": "505764",
+      "start": "2023-04-20T11:30:00",
+      "end": "2023-04-20T13:00:00",
+      "text": "Practica de Dinamica",
+      "duration": 90,
+      "dayOfWeek": 6,
+      "weeks": 4
+    },
+
+    {
+      "id": "50294",
+      "start": "2023-04-18T17:30:00",
+      "end": "2023-04-18T19:00:00",
+      "text": "Ingenieria en software II",
+      "duration": 90,
+      "dayOfWeek": 4,
+      "weeks": 4
+    },
+    {
+      "id": "50294",
+      "start": "2023-04-18T19:00:00",
+      "end": "2023-04-18T20:30:00",
+      "text": "Ingenieria en software II",
+      "duration": 90,
+      "dayOfWeek": 4,
+      "weeks": 4
+    },
+    {
+      "id": "50294",
+      "start": "2023-04-20T19:00:00",
+      "end": "2023-04-20T20:30:00",
+      "text": "Ingenieria en software II",
+      "duration": 90,
+      "dayOfWeek": 6,
+      "weeks": 4
+    },
+
+    {
+      "id": "50576",
+      "start": "2023-04-21T13:00:00",
+      "end": "2023-04-21T14:30:00",
+      "text": "Color",
+      "duration": 90,
+      "dayOfWeek": 7,
+      "weeks": 4
+    },
+    {
+      "id": "50576",
+      "start": "2023-04-21T14:30:00",
+      "end": "2023-04-21T16:00:00",
+      "text": "Color",
+      "duration": 90,
+      "dayOfWeek": 7,
+      "weeks": 4
+    }
+  ]
+}
